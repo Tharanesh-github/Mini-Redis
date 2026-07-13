@@ -1,0 +1,4 @@
+database.aof
+main
+*.exe
+*.test
